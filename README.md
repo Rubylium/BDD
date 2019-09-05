@@ -33,3 +33,6 @@ Exemple: Plus facile de trouvé une info dans un livre de 15 pages plutot que da
 
 
 
+**SQL** = Structured Query Language
+C'est un ensemble structurée de donnée enregistrée sur des support accessible par un grands nombres d'utilisateur simultanement
+
