@@ -24,10 +24,12 @@ Le SGBD s'occupe de gérer ses fichier correctement.
 - Processeur de requete ( Permet de comprendre le SQL et de le transformer en commande )
 
 
+
 **L'optimisation des tables est importante:**
 Une base de donnée sera beaucoup plus rapide si les tables son correctement organisé et pas trop rempli d'info inutile 
 
 Exemple: Plus facile de trouvé une info dans un livre de 15 pages plutot que dans un livre de 1000 pages.
+
 
 
 
